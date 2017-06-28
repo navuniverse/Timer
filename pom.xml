@@ -10,6 +10,14 @@
 	<name>Timer</name>
 	<url>http://rockingengineering.com</url>
 
+	<!-- Developer information -->
+	<developers>
+		<developer>
+			<name>Naveen Kumar</name>
+			<email>navuniverse@gmail.com</email>
+		</developer>
+	</developers>
+	
 	<properties>
 
 		<!-- Log4j Version -->
