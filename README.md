@@ -5,10 +5,10 @@ Project timer - Utility class to measure the time of your java code execution in
 # Usage Summary
 A thread safe, multi-level time measuring utility class. To call it say: 
 
-# Timer.timeIt("Time taken in my code area");
+Timer.timeIt("Time taken in my code area");
  
 Then some where down the code say: 
-# Timer.timeUp();
+Timer.timeUp();
  
 It will print time taken from last start point along with the message. You can call Timer.timeIt() many times inside another child functions etc. Only corresponding time durations will get printed
  
